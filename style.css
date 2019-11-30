@@ -32,7 +32,7 @@ text-align:center; padding-top:10%; font-size:110%; color:#FFCC00; display:inlin
 }
 .setheight{overflow:auto;}
 #hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.5); height:100vh;}
-#hideme div{display:block; width:700px; margin:auto; height:auto; background:rgba(0,0,0, 0.9); padding:0 10px; top:0;}
+#hideme div{display:block; width:700px; margin:auto; height:auto; background:rgba(0,0,0, 0.4); padding:0 10px; top:0;}
 #hideme a{width:700px; text-align:center; margin-left:-10px; display:block;}
 #hideme p{font-size:100%; border-radius:100%; padding:4px 10px; text-align:center; background:#771503; display:inline-block;}
 #hideme h2{font-size:110%; padding:10px; padding-left:20px; background:#771503; font-size:140%; color:#FFFFFF; display:block; text-align:center;}
