@@ -18,7 +18,7 @@ a{text-decoration:none;}
 #content{
 right:0;
 width:100%;
-background:rgba(0, 0, 0, 0.8);
+background:rgba(0, 0, 0, 0.4);
 height:800px;
 }
 h1, h2, h3{line-height:normal; font-family:Verdana;}
@@ -31,7 +31,7 @@ h1, h2, h3{line-height:normal; font-family:Verdana;}
 text-align:center; padding-top:10%; font-size:110%; color:#FFCC00; display:inline-block;
 }
 .setheight{overflow:auto;}
-#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.5); height:100vh;}
+#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.4); height:100vh;}
 #hideme div{display:block; width:700px; margin:auto; height:auto; background:rgba(0,0,0, 0.9); padding:0 10px; top:0;}
 #hideme a{width:700px; text-align:center; margin-left:-10px; display:block;}
 #hideme p{font-size:100%; border-radius:100%; padding:4px 10px; text-align:center; background:#771503; display:inline-block;}
@@ -67,9 +67,9 @@ text-align:center; padding-top:10%; font-size:110%; color:#FFCC00; display:inlin
 .rpic img{height:100px; width:100px; margin:2px;}
 @media screen and (max-width: 1024px) {
 .rpic img{height:100px; width:15%; margin:2px;}
-#overlay{background:rgba(0,0,0, 0.8); font-size:120%; color:#F9F9F9; white-space: normal; padding-top:25%; display:block; height:100vh;}
+#overlay{background:rgba(0,0,0, 0.4); font-size:120%; color:#F9F9F9; white-space: normal; padding-top:25%; display:block; height:100vh;}
 #overlay div{width:100%; font-size:150%; padding:10px 0; color:#FFFFFF; font-family:Verdana;}
-#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.5); width:100%; height:100vh;}
+#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.4); width:100%; height:100vh;}
 #hideme div{
 width:100%;
 background:rgba(0,0,0, 0.9);
