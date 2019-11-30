@@ -11,15 +11,15 @@ white-space: normal;
 overflow-x:hidden;
 }
 a{text-decoration:none;}
-#body{margin:0; padding:0; width:100%; background:rgba(0,0,0, 0.8);}
-#overlay{background:rgba(0, 0, 0, 0.4); padding:20px; font-size:130%; width:100%; height:100vh; line-height:normal; color:#F9F9F9; white-space: normal; position:fixed;left:0; text-align:center;}
+#body{margin:0; padding:0; width:100%; background:rgba(0,0,0, 0.4);}
+#overlay{background:rgba(0, 0, 0, 0.7); padding:20px; font-size:130%; width:100%; height:100vh; line-height:normal; color:#F9F9F9; white-space: normal; position:fixed;left:0; text-align:center;}
 #overlay div{width:500px; font-size:120%; padding:20px 0; color:#990000; margin:auto;}
 #overlay a{color:#FFFFFF; cursor:pointer; background:#CC0000; padding:15px; font-family:Verdana;}
 #content{
 right:0;
 width:100%;
 background:rgba(0, 0, 0, 0.8);
-height:100%;
+height:800px;
 }
 h1, h2, h3{line-height:normal; font-family:Verdana;}
 #sliderpanel{height:400px; width:600px; color:#FFFFFF; margin:auto; overflow:hidden;}
@@ -31,9 +31,9 @@ h1, h2, h3{line-height:normal; font-family:Verdana;}
 text-align:center; padding-top:10%; font-size:110%; color:#FFCC00; display:inline-block;
 }
 .setheight{overflow:auto;}
-#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.4); height:100vh;}
-#hideme div{display:block; width:700px; margin:auto; height:auto; background:rgba(0,0,0, 0.4); padding:0 10px; top:0;}
-#hideme a{width:100%; text-align:center; margin-left:-10px; display:block;}
+#hideme{font-size:100%; display:none; color:#F9F9F9; background:rgba(0,0,0, 0.5); height:100vh;}
+#hideme div{display:block; width:700px; margin:auto; height:auto; background:rgba(0,0,0, 0.9); padding:0 10px; top:0;}
+#hideme a{width:700px; text-align:center; margin-left:-10px; display:block;}
 #hideme p{font-size:100%; border-radius:100%; padding:4px 10px; text-align:center; background:#771503; display:inline-block;}
 #hideme h2{font-size:110%; padding:10px; padding-left:20px; background:#771503; font-size:140%; color:#FFFFFF; display:block; text-align:center;}
 /*keyframe animations*/
