@@ -106,7 +106,7 @@ padding-top:25%;
     height: 10px;
 	display:inline-block;
     margin-left: 5px;
-    opacity: 0.1;
+    opacity: 0.8;
     -moz-transform: scale(0.7);
     -webkit-transform: scale(0.7);
     -moz-animation: move 1s infinite linear;
@@ -141,23 +141,23 @@ padding-top:25%;
 @-moz-keyframes move {
     0% {
         -moz-transform: scale(1.2);
-        opacity: 1;
+        opacity: 8;
     }
 
     100% {
         -moz-transform: scale(0.7);
-        opacity: 0.1;
+        opacity: 0.8;
     };
 }
 
 @-webkit-keyframes move {
     0% {
         -webkit-transform: scale(1.2);
-        opacity: 1;
+        opacity: 8;
     }
 
     100% {
         -webkit-transform: scale(0.7);
-        opacity: 0.1;
+        opacity: 0.8;
     };
 }
